@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "digi 06.jpg"
   name             : "Franklin Riera Astudillo"
-  pronouns         : "PhD candidate"  
-  bio              : "Informatis Engineer, Master Degree Direction and Management of TI"
+  pronouns         : "Informatics Engineer, Master Degree Direction and Management of TI"  
+  bio              : "PhD candidate"
   location         : "Ecuador"
   employer         : "University of Cuenca"
   uri              : # URL
@@ -58,13 +58,13 @@ author:
   # Social media
   artstation       : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : "frankcoriera" # Username
+  facebook         : #"frankcoriera" # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "frankcoriera" # Username
+  instagram        : #"frankcoriera" # Username
   lastfm           : # Username
   linkedin         : "frankcoriera" # Username
   mastodon         : # URL
