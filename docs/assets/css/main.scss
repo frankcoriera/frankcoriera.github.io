@@ -9,9 +9,9 @@
  */
 
 @import
-    //"vendor/breakpoint/breakpoint",//
+    "vendor/breakpoint/breakpoint",
 
-    //"themes",//
+    "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
 
