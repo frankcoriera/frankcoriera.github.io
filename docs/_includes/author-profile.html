@@ -19,13 +19,18 @@
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
 	{% comment %}
-    Botón de Follow en GitHub
+    Widget oficial de Follow en GitHub
 	{% endcomment %}
 	{% if site.author.githubButton %}
-	<a href="https://github.com/{{ site.author.github }}" class="btn btn--github" style="margin-top: 10px;">
-    <i class="fab fa-github" aria-hidden="true"></i> Follow @{{ site.author.githubButton }}
-	</a>
-	{% endif %}
+	<div style="margin-top: 10px;">
+    <iframe src="https://ghbtns.com/github-btn.html?user={{ site.author.githubButton }}&type=follow&count=true&size=large" 
+            frameborder="0" 
+            scrolling="0" 
+            width="170" 
+            height="30" 
+            title="Follow @{{ site.author.githubButton }} on GitHub">
+    </iframe>
+	</div>
   </div>
 
   <div class="author__urls-wrapper">
