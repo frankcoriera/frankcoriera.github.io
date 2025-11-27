@@ -138,9 +138,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "frankcoriera" #&twitter
+  username               : &twitter #"frankcoriera" 
 facebook:
-  username               : "frankcoriera"
+  username               : &facebook #"frankcoriera"
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
