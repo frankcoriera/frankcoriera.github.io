@@ -18,6 +18,14 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+	{% comment %}
+    Botón de Follow en GitHub
+	{% endcomment %}
+	{% if site.author.githubButton %}
+	<a href="https://github.com/{{ site.author.github }}" class="btn btn--github" style="margin-top: 10px;">
+    <i class="fab fa-github" aria-hidden="true"></i> Follow @{{ site.author.githubButton }}
+	</a>
+	{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
