@@ -1,27 +1,6 @@
-¡Excelente! La información que me has proporcionado es el contenido del archivo de inicio de la plantilla AcademicPages, que en tu caso es about.md y tiene asignado el permalink: /.
-
-Esto confirma que:
-
-El archivo de tu página de inicio es _pages/about.md.
-
-El contenido que estás viendo es el texto completo de ese archivo (la explicación sobre la plantilla, el front matter y las instrucciones).
-
-Para personalizar tu página de inicio, debes reemplazar todo el contenido de este archivo por tu propia biografía, manteniendo solo la cabecera YAML esencial.
-
-🛠️ Pasos para Personalizar la Página de Inicio
-Debes editar el archivo _pages/about.md y reemplazar todo el texto instructivo por tu propia información personal.
-
-1. Ubica el Archivo
-El archivo que tienes que modificar es: _pages/about.md
-
-2. Edita el Archivo Completo
-Reemplaza el contenido actual por lo siguiente (personalizando la sección de Markdown):
-
-Markdown
-
 ---
 permalink: /
-title: "Dr. Franklin Riera Astudillo, PhD Candidate" # Cambia este título
+title: "Franklin Riera Post"
 author_profile: true
 redirect_from: 
   - /about/
