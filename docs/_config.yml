@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Portfolio"
+title                    : "Professional Profile"
 title_separator          : "_"
 name                     : &name "Franklin Riera Astudillo"
 description              : &description "Franklin Riera academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
