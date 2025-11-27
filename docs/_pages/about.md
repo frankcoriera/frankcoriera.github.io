@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Franklin Riera Post"
+title: "Franklin Riera Astudillo"
 author_profile: true
 redirect_from: 
   - /about/
