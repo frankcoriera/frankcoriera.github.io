@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Franklin Riera Astudillo"
+title: "👋 Welcome to my profile!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## 👋 Welcome & Profile Overview
+## 🔥 Overview
 
 As an **Informatics Engineer** and **PhD Candidate** 🇪🇨, I specialize in the demanding intersection of **Advanced Computational Tools** and **Environmental Science**. My research is dedicated to leveraging **Machine Learning (ML)**, **Remote Sensing**, and **Data Analysis** to foster **sustainable development** and **territorial resilience**.
 
