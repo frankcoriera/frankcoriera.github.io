@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Portfolio"
 title_separator          : "_"
 name                     : &name "Franklin Riera Astudillo"
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "digi 06.jpg"
   name             : "Franklin Riera Astudillo"
-  pronouns         : "he/him"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "PhD candidate"  
+  bio              : "Informatis Engineer, Master Degree Direction and Management of TI"
   location         : "Ecuador"
   employer         : "University of Cuenca"
   uri              : # URL
