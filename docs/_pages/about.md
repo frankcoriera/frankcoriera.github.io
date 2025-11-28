@@ -22,9 +22,9 @@ My technical strength lies in processing and analyzing large-scale, multi-source
 | Category | Key Skills |
 | :--- | :--- |
 | **Data & AI Tools** | Python, R, SQL, TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy. |
-| **GIS & Remote Sensing** | ArcGIS, QGIS, **Google Earth Engine (GEE)**, Agisoft Metashape, Pix4D, Drone Deploy. |
+| **GIS & Remote Sensing** | ArcGIS, QGIS, **Google Earth Engine (GEE)**, Agisoft Metashape,<br> Pix4D, Cloud Compare, Drone Deploy, DJI Terra. |
 | **Data Acquisition** | LiDAR (UAV and terrestrial), Multispectral, RGB, and Thermal sensors (UAV-based). |
-| **OS & Platforms** | Linux, Windows, macOS, Git, LaTeX. |
+| **OS & Platforms** | Linux, Windows, macOS, GCP, AWS, Azure, Git, LaTeX. |
 
 ---
 
