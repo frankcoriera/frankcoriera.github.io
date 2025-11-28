@@ -57,7 +57,7 @@ My academic journey is aimed at specialized research in climate-sensitive forest
 | **Doctorate Internship (Erasmus+)** | University of Valladolid | Soria, Spain | 2025–2026 |
 | **Computer Science, PhD Student** | University of Cuenca | Cuenca, Ecuador | 2024–Present |
 | **MSc. Direction and Management of IT** | International University of La Rioja | Logroño, Spain | 2020–2021 |
-| **BSc. Informatics and Electrical Eng.** | University of Cuenca | Cuenca, Ecuador | 2014–2019 |
+| **BSc. Informatics Engineer** | Technical University of Loja | Cuenca, Ecuador | 2014–2019 |
 
 My primary career goal is to obtain my PhD, focused on **climate-sensitive forest growth modeling using AI**, and build an academic career that integrates teaching and applied research in environmental data science and sustainable development.
 
